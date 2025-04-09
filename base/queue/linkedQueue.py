@@ -1,4 +1,6 @@
-from DS.list.circularLinkedList import CircularLinkedList
+#import sys
+#sys.path.append('./base/list')
+from base.list.circularLinkedList import CircularLinkedList
 
 class LinkedQueue:
 	def __init__(self):
